@@ -1,4 +1,4 @@
-import express, { json, urlencoded } from 'express';
+import { json, urlencoded } from 'express';
 import compression from 'compression';
 import cookieSession from 'cookie-session';
 import hpp from 'hpp';
